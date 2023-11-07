@@ -1,6 +1,6 @@
 public class Gym {
 
-    boolean member;
+    protected boolean member;
     public String name;
     private String Trainer;
     Gym()
